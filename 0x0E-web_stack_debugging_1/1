@@ -1,0 +1,4 @@
+ln: failed to create symbolic link '/etc/nginx/sites-enabled/default': No such file or directory
+cat: /etc/nginx/nginx.conf: No such file or directory
+ * Restarting nginx nginx
+   ...fail!
